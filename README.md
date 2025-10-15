@@ -1,5 +1,5 @@
-## NAME : NITHISH R
-## REG NO : 212223040135
+## NAME : NITHISH KUMAR S
+## REG NO : 212224230190
 
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
